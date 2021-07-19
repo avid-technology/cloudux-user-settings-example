@@ -1,0 +1,62 @@
+.submitbtn {
+    height: 30px;
+    border: none;
+    padding: 0 20px;
+    font-size: 14px;
+    line-height: 14px;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 0;
+    cursor: pointer;
+    margin: 5px 15px 20px 15px;
+    background: var(--buttons-button04);
+    color: var(--foreground-text01);
+}
+
+.textwraper {
+    padding: 8px 20px 13px 20px;
+    font-size: 11px;
+    color: var(--input-input_label);
+    background-color: var(--backgrounds-background03);
+    -webkit-user-select: none;
+    user-select: none;
+    padding-right: 0px;
+    padding-left: 8px;
+    text-align: right;
+}
+
+.inputsettings {
+    font-family: Arimo, Arial, sans-serif;
+    text-overflow: ellipsis;
+    line-height: 19px;
+    font-size: 14px;
+    padding: 0px 18px 0px 0px;
+    margin-left: 18px;
+    background: inherit;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-image: initial;
+    border-bottom: 1px solid rgb(128, 132, 153);
+    color: rgb(255, 255, 255);
+}
+
+.deletebtn {
+    height: 30px;
+    border: none;
+    padding: 0 20px;
+    font-size: 14px;
+    line-height: 14px;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 0;
+    cursor: pointer;
+    margin: 5px 15px 20px 15px;
+    background: #b10a0a;
+    color: var(--foreground-text01);
+}
+
+.container {
+    text-align: center;
+    font-size: 16px;
+}

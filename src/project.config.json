@@ -1,0 +1,18 @@
+{
+  "identity": {
+    "description": "user settings example",
+    "build": "1",
+    "version": "0.0.1"
+  },
+  "signing": {
+    "login": "",
+    "developerID": "",
+    "organization": "avid",
+    "privateKeyPath": ""
+  },
+  "connection": {
+    "hostIp": "cloudux_ip",
+    "hostPort": "",
+    "proxyPort": "443"
+  }
+}
