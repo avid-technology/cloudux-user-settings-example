@@ -66,12 +66,12 @@ User tab layout describes in ./src/app/settings.js. Functions for getting, stori
 
 ### How to use CloudUX plugin
 Appearance of the plugin:
-![image](/uploads/330647e424525bdd1ac2487f250dc2b5/image.png)
+![image_0](https://user-images.githubusercontent.com/50831927/126165914-c6237618-733d-4492-809e-8a3be3e3b2a4.png)
 
 To see user setting click on user icon and select **User Settings**:
-![image](/uploads/e4f01105af5b36dacc6bffe376ae314a/image.png)
+![image_1](https://user-images.githubusercontent.com/50831927/126165910-9cf5fde0-bf8e-4a31-b6f3-0c6bfd3b7373.png)
 
 To add/change user settings click on **Simple user settings** tab and set a custom message:
-![image](/uploads/e4a9af2c942f76f394c5bebfebeb1902/image.png)
+![image_2](https://user-images.githubusercontent.com/50831927/126165913-84646ade-c36f-48bd-a783-adb6645d3424.png)
 
 Click "Delete" button to delete user settings for current user.
